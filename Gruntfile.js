@@ -49,4 +49,7 @@ module.exports = function (grunt) {
       var ponnukiServer = require('./lib/ponnukiserver');
       ponnukiServer.start();
   });
+
+  grunt.registerTask('travis', ['default']);
+
 };

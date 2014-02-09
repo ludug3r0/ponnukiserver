@@ -1,6 +1,6 @@
-# PonnukiServer [![Build Status](https://secure.travis-ci.org/ludug3r0/ponnukiserver.png?branch=master)](http://travis-ci.org/ludug3r0/ponnukiserver)
+[![Build Status](https://secure.travis-ci.org/ludug3r0/ponnukiserver.png?branch=master)](http://travis-ci.org/ludug3r0/ponnukiserver)
 
-Ponnuki Server
+# PonnukiServer
 
 ## Getting Started
 Install the module with: `npm install ponnukiserver`
@@ -10,10 +10,13 @@ var ponnukiserver = require('ponnukiserver');
 ponnukiserver.start(); //
 ```
 
-## Documentation
+## Running the app
 ```
 grunt server watch
 ```
+
+## Documentation
+_(Coming soon)_
 
 ## Examples
 _(Coming soon)_
