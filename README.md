@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/ludug3r0/ponnukiserver.png?branch=master)](http://travis-ci.org/ludug3r0/ponnukiserver)
+[![Build Status](https://travis-ci.org/ludug3r0/ponnukiserver.png?branch=master)](https://travis-ci.org/ludug3r0/ponnukiserver)
 
 # PonnukiServer
 
