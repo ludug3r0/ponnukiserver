@@ -42,13 +42,7 @@ module.exports = function (grunt) {
     }
   });
 
-  // Default task.
   grunt.registerTask('default', ['jshint', 'nodeunit']);
-
-  grunt.registerTask('server', 'Serve application', function() {
-      var ponnukiServer = require('./lib/ponnukiserver');
-      ponnukiServer.start();
-  });
 
   grunt.registerTask('travis', ['default']);
 
