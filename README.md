@@ -12,7 +12,8 @@ ponnukiserver.start(); //
 
 ## Running the app
 ```
-grunt server watch
+npm install --production
+npm start
 ```
 
 ## Documentation
