@@ -20,6 +20,7 @@
     }
   ],
   "dependencies": {
+    "ws": "0.4.x",
     "igsclient": "*"
   },
   "devDependencies": {
